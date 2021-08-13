@@ -17,7 +17,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```
 # Clone este repositório
-$ git clone https://github.com/wesleywisch/Ignite-reactjs-upload-de-imagens.git
+$ git clone https://github.com/wesleywisch/Upfi.git
 
 # Instale as dependências
 $ yarn ou npm install
